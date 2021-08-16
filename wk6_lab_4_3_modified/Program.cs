@@ -8,6 +8,7 @@ namespace wk6_lab_4_3_modified
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("test");
+            Console.WriteLine("test2");
         }
     }
 }
